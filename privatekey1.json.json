@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "freshlife-87d9a",
+  "private_key_id": "efbaea97de8d44264065708469390e4be55c7e2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeuw9Q/8KBFux2\nMJcMbuoEJ+BbqNG6Me0OYkGw/HLLXil6xZ3zVY3AT28vBBS/GTxGbvj57/6JPDB0\n3WX+7NK3HddENdd2sJgh4FRJ8bvI5smgPcQzfZfiKuZHDvih/lToHwiKB2hsPGls\nBNEdF2iI/oy0lSxAHfbbVqDUvsRQ5JLyGDHug55cl0q/ZXX/3CtCEfM2PCsupf7T\nLdLXikdTYJZOIjoGE6AA5itWme37dj0jFaZ1eEVFXpdBiYdRvpbMkANkpLSTghev\n2UkDu15Vn4HnCNrRm2NuhUkgU30NL7g0sxy4WvqANpYf7FhWgkzaH2gsASheCWv6\nMxcIFP4FAgMBAAECggEACyI2pcnjIyjOMSpEoq54rDSCFpLdyPzt6KYounwkEN5o\nHGb8eklwiIhv+l2t28+bH7o0X+oLQzjrAyx+CLw13El1lUdLufch46+fBwM6a9R9\nh7EOubQxf3C9ihfJfe+EtwW2G5A7PA3ZBzlGarnc09xFlFFQoPPefyBZcckHbzOl\n75AypilDYjwLXJOqgnXWtt5Wnxj3zKdHgaCFWt7Ah7m69k2UVyLWNyGwPBdJHjBK\nejJDxaijxDvehPI9ydB1rHuYN6x+D5Jl4rXb62F/uCcOjN434Ie+7U12OagBBIkC\no/2HrGpOrRu5HoT8BFKZokyoZWjsyFdYf6OJc6y8EQKBgQD5aHsSTDl80LYUvqaJ\ncqTmDlpAnbDtHntZgHurCa+TX5q5JSoZI62MtzjRFFm/SfxLH34crEOf/sAH40xP\neTXt0GnnQsI6s4BzyBKhL/vZ64s3pndVvuyBZHu6CcFhJ8ZzT0n6stlv+z+vo5rC\nKsVh4j2OY8vn51/oEUU2G9ueMwKBgQDknhO6zM6K7IKwK/USNQrK7e5INS0+P8AL\ndvPgRZALR63l6NlKFqnMfeKKQam9HOR7Wm4f1B0XTEYyyCSfnegJL0/wvc4F53ju\nNkCq2yOcqpDL+i2/72Q4OnTPPDfgxu7NufMBXI9djdd3+I9HTKqisV+buvoA6V4e\nZuUKjpfK5wKBgAoiY7XXoRJgTLXFFXFKVkb+2E392l2YOnzliqDlkNvVK61QREin\nOXsZSta8E/WA5R6MVgyGN2095cGsS8KC810JdfQus0O9XX/W5mLkV0CAoLSPMBQs\n4OFVGu3xTYlMG3U+CIyGTe2N8QWLCVPQdxrGHag2h+eRcEU2xnAva5ofAoGAVEzN\n7aWzy5pmnlu3JJ2Wezm9Ebc6FaggQpn8V4iPEvm9b/eqmB0/Q35v2JdZ5bgPsESq\nMuZeS8b+Y59Vkd4CP9DIY3c5zweJmh07P0VLHmvutKht0kaN6AX2KKyF1kbEq+uT\nZb8hxleVSlHHU307tn49SQlrQobLA97hOkFWS6UCgYEAyvTo0HvOP1q+nA0Iu921\nQCPdRGgj8tN0FAkmy/Va5LwTA1xG+IrTeBcF79PjQ5u+ZBHp5NHJtSNOdP35zvAq\n+UM8fkhnqZbyC2Q7klehwRHEdaV8EKvWFT2z8wARi60+MEEfJR1AMy2ncBaqrmqm\n7ufp0KfS0rzant31lO34rhc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a0qgd@freshlife-87d9a.iam.gserviceaccount.com",
+  "client_id": "100637728708598504609",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a0qgd%40freshlife-87d9a.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
