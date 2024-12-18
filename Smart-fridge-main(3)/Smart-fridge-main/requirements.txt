@@ -1,6 +1,0 @@
-Flask==2.3.2
-tensorflow
-pandas==2.1.1
-firebase-admin==6.0.0
-numpy==1.26.4
-opencv-python==4.10.0.84

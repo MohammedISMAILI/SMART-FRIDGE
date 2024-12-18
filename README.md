@@ -1,4 +1,13 @@
 # FreshLife
+## Collaborators
+
+| Name                | Organization                          | Department                                 | Email                           |
+|---------------------|--------------------------------------|-------------------------------------------|---------------------------------|
+| **Aleksander Jankovic**   | Högskolan i Halmstad |         Computer Engineering              | [alejan22@student.hh.se](mailto:alejan22@student.hh.se) |
+| **Axel Lundin**      | Högskolan i Halmstad | Computer Engineering | [axelun22@student.hh.se](mailto:axelun22@student.hh.se) |
+| **Hyunsuk Lee**     | Hanyang University                   | Information Systems                      | [leehyunsuk2000@gmail.com](mailto:leehyunsuk2000@gmail.com) |
+| **Mohammed Ismaili**      | Al Akhawayn University             | Computer Science                      | [Mo.Ismaili@aui.ma](mailto:Mo.Ismaili@aui.ma) |
+
 ## About the App
 
 The app integrates with a smart refrigerator connected via Wi-Fi and synced with a fitness app. Equipped with cameras and an internal scale, the fridge helps users automatically track the nutritional values of the food they consume throughout the day. By leveraging real-time data from both the food recognition system and weight measurements, the app provides an accurate calculation of daily nutritional intake.
